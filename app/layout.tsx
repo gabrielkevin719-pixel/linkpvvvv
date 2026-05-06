@@ -28,7 +28,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="pt-BR" className="bg-[var(--background)]">
+    <html lang="pt-BR" className="bg-background">
       <body>{children}</body>
     </html>
   );

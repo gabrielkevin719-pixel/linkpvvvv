@@ -4,7 +4,7 @@ import { ContentGrid } from "@/components/content-grid";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[var(--background)]">
+    <main className="min-h-screen bg-background">
       <div className="max-w-md mx-auto">
         <ProfileHeader />
         <SubscribeButton />

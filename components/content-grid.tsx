@@ -22,7 +22,7 @@ const lockedContent = [
 export function ContentGrid() {
   return (
     <div className="px-4 pb-8">
-      <h2 className="text-white font-semibold mb-3 text-sm">Prévia</h2>
+      <h2 className="text-foreground font-semibold mb-3 text-sm">Prévia</h2>
       <div className="grid grid-cols-3 gap-1 mb-6">
         {previewImages.map((item, index) => (
           <div
@@ -39,8 +39,8 @@ export function ContentGrid() {
         ))}
       </div>
 
-      <h2 className="text-white font-semibold mb-3 text-sm flex items-center gap-2">
-        <Lock className="w-4 h-4 text-[var(--primary)]" />
+      <h2 className="text-foreground font-semibold mb-3 text-sm flex items-center gap-2">
+        <Lock className="w-4 h-4 text-primary" />
         Conteúdo Exclusivo
       </h2>
       <div className="grid grid-cols-3 gap-1">
