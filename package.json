@@ -1,13 +1,25 @@
 {
-  "name": "linkpvvvv",
+  "name": "linkpriv",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "serve -l 3000",
-    "build": "echo 'Static site'",
-    "start": "serve -l 3000"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
-    "serve": "^14.2.0"
+    "next": "^15.3.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/qrcode": "^1.5.5",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0"
   }
 }

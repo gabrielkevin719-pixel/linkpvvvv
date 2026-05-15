@@ -70,7 +70,7 @@ export default function CheckoutPage() {
           <div className="flex items-center gap-4 mb-6">
             <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-pink-500">
               <Image
-                src="/profile.jpg"
+                src="/prev-1.jpg"
                 alt="Mc Mirella"
                 width={64}
                 height={64}
