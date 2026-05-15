@@ -15159,7 +15159,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                             className: "absolute -top-2.5 left-3 bg-primary text-primary-foreground text-[10px] font-bold px-2 py-0.5 rounded-full",
                             children: "Economize 5%"
                         }), S.jsx("a", {
-                            href: "https://www.linkpriv.com/672327ef-4350-4112-bade-95bf86c7cda0",
+                            href: "/checkout",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "block w-full gradient-subscribe text-primary-foreground font-semibold py-3.5 rounded-xl text-base hover:opacity-90 transition-opacity text-center",
@@ -15188,7 +15188,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                     }), n && S.jsxs("div", {
                         className: "mt-3 space-y-2",
                         children: [S.jsxs("a", {
-                            href: "https://www.linkpriv.com/1a637600-6051-44fa-adf3-4e46996ef8ae",
+                            href: "/checkout",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "w-full gradient-plan rounded-xl py-3 px-4 flex items-center justify-between hover:opacity-90 transition-opacity",
@@ -15200,7 +15200,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                                 children: "R$ 19,90"
                             })]
                         }), S.jsxs("a", {
-                            href: "https://www.linkpriv.com/678a493b-830a-4b70-9202-8e1778fd7128",
+                            href: "/checkout",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "w-full gradient-plan rounded-xl py-3 px-4 flex items-center justify-between hover:opacity-90 transition-opacity",
@@ -15212,7 +15212,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                                 children: "R$ 29,90"
                             })]
                         }), S.jsxs("a", {
-                            href: "https://www.linkpriv.com/678a493b-830a-4b70-9202-8e1778fd7128",
+                            href: "/checkout",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "w-full gradient-plan rounded-xl py-3 px-4 flex items-center justify-between hover:opacity-90 transition-opacity",
@@ -15303,7 +15303,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                                 className: "text-card font-semibold text-sm",
                                 children: "Assine para desbloquear"
                             }), S.jsx("a", {
-                                href: "https://www.linkpriv.com/672327ef-4350-4112-bade-95bf86c7cda0",
+                                href: "/checkout",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "gradient-subscribe text-primary-foreground font-semibold py-2 px-6 rounded-full text-sm hover:opacity-90 transition-opacity",
@@ -15327,7 +15327,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                                 className: "text-card font-semibold text-sm",
                                 children: "Vídeo exclusivo para assinantes"
                             }), S.jsx("a", {
-                                href: "https://www.linkpriv.com/672327ef-4350-4112-bade-95bf86c7cda0",
+                                href: "/checkout",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "gradient-subscribe text-primary-foreground font-semibold py-2 px-6 rounded-full text-sm hover:opacity-90 transition-opacity",
@@ -15381,7 +15381,7 @@ const pf = "/assets/linkpriv-logo-dark-BRavyTkq.svg",
                             className: "text-sm text-muted-foreground mb-3",
                             children: "Desbloqueie todo o conteúdo exclusivo"
                         }), S.jsx("a", {
-                            href: "https://www.linkpriv.com/672327ef-4350-4112-bade-95bf86c7cda0",
+                            href: "/checkout",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "block w-full gradient-subscribe text-primary-foreground font-semibold py-3 rounded-xl text-base hover:opacity-90 transition-opacity",
